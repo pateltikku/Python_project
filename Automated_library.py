@@ -1,4 +1,4 @@
-"""This code implements an autonomous library system that enables students to independently 
+"""This code implements an automated library system that enables students to independently 
 issue and return books, eliminating the requirement for human librarian"""
 
 import datetime
